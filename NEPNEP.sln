@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "util", "util\util.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Overmind", "Data Overmind\Data Overmind.vcxproj", "{9F36FB28-E6B5-41DC-9577-941EEBB7F895}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nepUP", "nepUP\nepUP.vcxproj", "{F9197739-7DD4-4599-88FD-DE260F230544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Debug|Win32.Build.0 = Debug|Win32
 		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Release|Win32.ActiveCfg = Release|Win32
 		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Release|Win32.Build.0 = Release|Win32
+		{F9197739-7DD4-4599-88FD-DE260F230544}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9197739-7DD4-4599-88FD-DE260F230544}.Debug|Win32.Build.0 = Debug|Win32
+		{F9197739-7DD4-4599-88FD-DE260F230544}.Release|Win32.ActiveCfg = Release|Win32
+		{F9197739-7DD4-4599-88FD-DE260F230544}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
