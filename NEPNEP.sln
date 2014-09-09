@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nepCL", "nepCL\nepCL.vcxproj", "{4319E3D2-F5E9-40BF-B56A-7AACF17D95C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LASTORDER", "LASTORDER\LASTORDER.vcxproj", "{4772B64C-3FE8-413C-96B6-3D6362320A7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "util", "util\util.vcxproj", "{F4D70F41-1D8A-47EA-9A2B-40632B4FD802}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Overmind", "Data Overmind\Data Overmind.vcxproj", "{9F36FB28-E6B5-41DC-9577-941EEBB7F895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4319E3D2-F5E9-40BF-B56A-7AACF17D95C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4319E3D2-F5E9-40BF-B56A-7AACF17D95C6}.Debug|Win32.Build.0 = Debug|Win32
+		{4319E3D2-F5E9-40BF-B56A-7AACF17D95C6}.Release|Win32.ActiveCfg = Release|Win32
+		{4319E3D2-F5E9-40BF-B56A-7AACF17D95C6}.Release|Win32.Build.0 = Release|Win32
+		{4772B64C-3FE8-413C-96B6-3D6362320A7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4772B64C-3FE8-413C-96B6-3D6362320A7C}.Debug|Win32.Build.0 = Debug|Win32
+		{4772B64C-3FE8-413C-96B6-3D6362320A7C}.Release|Win32.ActiveCfg = Release|Win32
+		{4772B64C-3FE8-413C-96B6-3D6362320A7C}.Release|Win32.Build.0 = Release|Win32
+		{F4D70F41-1D8A-47EA-9A2B-40632B4FD802}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4D70F41-1D8A-47EA-9A2B-40632B4FD802}.Release|Win32.ActiveCfg = Release|Win32
+		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Debug|Win32.Build.0 = Debug|Win32
+		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Release|Win32.ActiveCfg = Release|Win32
+		{9F36FB28-E6B5-41DC-9577-941EEBB7F895}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
